@@ -1,16 +1,18 @@
-ù ��° ������Ʈ
-test
-testtesttesttesttesttesttesttesttestv
-testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
+1명 db 입력
 
-testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
-testtesttesttesttesttesttesttesttesttestv
+2명 콘솔 (CURD)
 
-testtesttesttesttesttesttesttesttestv
-
-
-asdasdasdasd
+1명 스윙
 
 
 
-testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
+콘솔 구현
+
+// 1. 로그인창 (회원/ 비회원/ 회원가입)
+// 2. 영화 선택창 (영화 제목/ 영화 정보)
+
+// 3. 상영 시간 선택
+// 4. 상영관 선택
+// 5. 좌석 선택 
+// 6. 결제창
+// 7. 티켓출력 (제목, 날짜, 시간, 상영관, 좌석, 가격, 티켓번호)
